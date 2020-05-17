@@ -20,7 +20,7 @@ body {
 }
 
 #navbar {
-
+    margin-top: -20px;
 }
 .navbar ul {
     padding: 0;
